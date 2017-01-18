@@ -1,2 +1,2 @@
-# fungeek
-Alexa Skill for Fun Facts!
+# Fun Geek
+Over 100 fun, weird, crazy facts to make your day even more interesting. Just say, "Alexa ask fun geek a fun fact" or "Tell me trivia" in order to get a hilarious and funny fact. More facts will be updated soon :)
